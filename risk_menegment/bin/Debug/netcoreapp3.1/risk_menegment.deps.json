@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "risk_menegment/1.0.0": {
+        "runtime": {
+          "risk_menegment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "risk_menegment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

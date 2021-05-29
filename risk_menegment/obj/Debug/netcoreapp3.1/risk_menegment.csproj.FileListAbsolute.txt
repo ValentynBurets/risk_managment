@@ -1,0 +1,15 @@
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\bin\Debug\netcoreapp3.1\risk_menegment.exe
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\bin\Debug\netcoreapp3.1\risk_menegment.deps.json
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\bin\Debug\netcoreapp3.1\risk_menegment.runtimeconfig.json
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\bin\Debug\netcoreapp3.1\risk_menegment.runtimeconfig.dev.json
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\bin\Debug\netcoreapp3.1\risk_menegment.dll
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\bin\Debug\netcoreapp3.1\risk_menegment.pdb
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.csprojAssemblyReference.cache
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.csproj.GenerateResource.cache
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.AssemblyInfoInputs.cache
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.AssemblyInfo.cs
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.csproj.CoreCompileInputs.cache
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.dll
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.pdb
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.genruntimeconfig.cache
+D:\TERM 3.1\avpz\Labs\Lab5\risk_menegment\risk_menegment\obj\Debug\netcoreapp3.1\risk_menegment.MainForm.resources
